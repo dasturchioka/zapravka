@@ -1,4 +1,4 @@
-import notfound from "@/assets/images/icons/notfound.svg";
+import notfound from "../../../public/assets/images/icons/notfound.svg";
 
 export default function NotFound() {
   return (
@@ -8,7 +8,7 @@ export default function NotFound() {
         Hech narsa topilmadi.
       </h3>
       <p className="text-[#878787] font-light text-sm text-center">
-        So'rov yoki masshtabni o'zgартириб ko'ring.
+        So'rov yoki masshtabni o'zgartirib ko'ring.
       </p>
     </div>
   );
