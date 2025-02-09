@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "9f0cd46d-56f6-4740-9a00-41e8fae7add2",
+    "images": [
+      "/images/stations/station1.webp",
+      "/images/stations/station2.webp",
+      "/images/stations/station3.webp",
+      "/images/stations/station4.webp"
+    ],
+    "name": "70-sonli “Carvon” yoqilg‘i quyish shoxobchasi Taxtapul",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Taxtapul ko‘chasi, 344-uy",
+    "availableFuels": ["AI-98", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 227 24 89", "+998 71 200 01 24"],
+      "webSite": {
+        "title": "carvon.uz",
+        "url": "https://carvon.uz"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/UNG_Petro_Bot"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.341660",
+      "longitude": "69.261664"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      },
+      {
+        "availability": "Ramp",
+        "availabilityIcon": "/images/icons/tick.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "ff14b3b8-e101-4dd3-a953-4a6000862ff3",
+    "images": [
+      "/images/stations/station5.webp",
+      "/images/stations/station6.webp",
+      "/images/stations/station7.webp",
+      "/images/stations/station8.webp",
+      "/images/stations/station9.webp",
+      "/images/stations/station10.webp",
+      "/images/stations/station11.webp",
+      "/images/stations/station12.webp",
+      "/images/stations/station13.webp"
+    ],
+    "name": "Tatneft",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Qoratosh shoh ko'chasi, 8A",
+    "availableFuels": ["DT", "AI-98", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "facebook": {
+        "icon": "/images/icons/facebook.svg",
+        "url": "https://facebook.com/azs.tatneft"
+      },
+      "instagram": {
+        "icon": "/images/icons/instagram.svg",
+        "url": "https://instagram.com/azs.tatneft"
+      },
+      "ok": {
+        "icon": "/images/icons/ok.svg",
+        "url": "https://ok.ru/azs.tatneft"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/azstatneft"
+      },
+      "vk": {
+        "icon": "/images/icons/vk.svg",
+        "url": "https://vk.com/azs.tatneft"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.315389",
+      "longitude": "69.234849"
+    },
+    "availabilities": [
+      {
+        "availability": "Keyingi to'lov",
+        "availabilityIcon": "/images/icons/tick.svg"
+      },
+      {
+        "availability": "Yuk tashish transportiga yonilg'i quyish",
+        "availabilityIcon": "/images/icons/tick.svg"
+      }
+    ],
+    "services": ["yuvish"],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "62cb8494-60a4-45fa-862a-693a8c5b6835",
+    "images": [
+      "/images/stations/station14.webp",
+      "/images/stations/station15.webp",
+      "/images/stations/station16.webp",
+      "/images/stations/station17.webp",
+      "/images/stations/station18.webp"
+    ],
+    "name": "Lukoyl",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "emb. Qorasu, 118",
+    "availableFuels": ["DT", "AI-95", "AI-92", "AI-80", "AI-100"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 230 24 08"]
+    },
+    "coordinates": {
+      "latitude": "41.309153",
+      "longitude": "69.346589"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "53d79580-b7bd-474f-961c-8a55e66e7485",
+    "images": [
+      "/images/stations/station19.webp",
+      "/images/stations/station20.webp",
+      "/images/stations/station21.webp",
+      "/images/stations/station22.webp",
+      "/images/stations/station23.webp"
+    ],
+    "name": "1-son Parkentskiy Carvon yoqilg'i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "st. Parkent, 45B",
+    "availableFuels": ["DT", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 269 24 35", "+998 71 200 01 24"],
+      "webSite": {
+        "title": "carvon.uz",
+        "url": "https://carvon.uz"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/UNG_Petro_Bot"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.314077",
+      "longitude": "69.328158"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "ac785a3c-788c-49db-801e-819bcbfbceb4",
+    "images": [
+      "/images/stations/station24.webp",
+      "/images/stations/station25.webp"
+    ],
+    "name": "15-sonli “Carvon” yoqilg‘i quyish shoxobchasi Chinaobod",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Salarskaya qirg'og'i, 47",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 286 12 54", "+998 55 506 09 10"],
+      "webSite": {
+        "title": "ungpetro.uz",
+        "url": "https://ungpetro.uz"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/UNG_Petro_Bot"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.329231",
+      "longitude": "69.312986"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      },
+      {
+        "availability": "Lift",
+        "availabilityIcon": "/images/icons/tick.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      }
+    ]
+  },
+  {
+    "id": "eba45537-38f5-451f-a452-0fba2d097077",
+    "images": [
+      "/images/stations/station26.webp",
+      "/images/stations/station27.webp",
+      "/images/stations/station28.webp"
+    ],
+    "name": "Poytaxt Oil yoqilg'i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Mirobod tumani, Turkiston ko‘chasi, 4-uy",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "coordinates": {
+      "latitude": "41.294496",
+      "longitude": "69.290894"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "14f8d54d-664f-43d4-bad3-e11d12364292",
+    "images": [
+      "/images/stations/station29.webp",
+      "/images/stations/station30.webp"
+    ],
+    "name": "Ichki xizmat",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent, Samarqand Darvoza ko'chasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "phoneNumbers": [
+        "+998 71 227 02 79",
+        "+998 71 227 07 75",
+        "+998 71 227 02 67"
+      ]
+    },
+    "coordinates": {
+      "latitude": "41.317166",
+      "longitude": "69.229611"
+    }
+  },
+  {
+    "id": "c4d5a8f6-ae91-48ce-9908-9d9022d9437e",
+    "images": ["/images/stations/station31.webp"],
+    "name": "Yoqilg'i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Yashnobod tumani, mahalla fuqarolar yig‘ini Mashinasozlar",
+    "availableFuels": ["AI-92", "AI-91", "AI-80"],
+    "coordinates": {
+      "latitude": "41.306941",
+      "longitude": "69.310115"
+    },
+    "services": ["yuvish", "shinamontaj"],
+    "peculiarities": [
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "068bcfee-b150-45fd-886a-57154f615ebb",
+    "images": ["/images/stations/station32.webp"],
+    "name": "Shahriston 6-sonli Carvon yoqilg‘i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "2-tug'in Xisor, 2B",
+    "availableFuels": ["AI-95", "AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 78 50 82 42", "+998 71 200 01 24"],
+      "webSite": {
+        "title": "ungpetro.uz",
+        "url": "https://ungpetro.uz"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.350855",
+      "longitude": "69.286329"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      }
+    ]
+  },
+  {
+    "id": "1369f4d6-1989-48e8-94b9-7154473af667",
+    "images": [
+      "/images/stations/station33.webp",
+      "/images/stations/station34.webp"
+    ],
+    "name": "Miss Petrol",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Shota Rustaveli ko‘chasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 250 83 51"]
+    },
+    "coordinates": {
+      "latitude": "41.259494",
+      "longitude": "69.221559"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      }
+    ]
+  },
+  {
+    "id": "7d34308f-6f77-4e2b-b349-4e53887ed84d",
+    "images": [
+      "/images/stations/station35.webp",
+      "/images/stations/station36.webp",
+      "/images/stations/station37.webp",
+      "/images/stations/station38.webp",
+      "/images/stations/station39.webp"
+    ],
+    "name": "Ichki xizmat",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Ahmad Donish ko‘chasi",
+    "availableFuels": ["AI-98", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 224 22 59"]
+    },
+    "coordinates": {
+      "latitude": "41.361866",
+      "longitude": "69.284957"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      }
+    ]
+  },
+  {
+    "id": "e4f41f7c-e2ea-4205-8d4f-a569a6e35b7f",
+    "images": [
+      "/images/stations/station40.webp",
+      "/images/stations/station41.webp",
+      "/images/stations/station42.webp",
+      "/images/stations/station43.webp",
+      "/images/stations/station44.webp",
+      "/images/stations/station45.webp"
+    ],
+    "name": "Ibr",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Amir Temur shoh ko‘chasi, 21E",
+    "availableFuels": ["AI-98", "AI-95", "AI-92", "AI-80"],
+    "coordinates": {
+      "latitude": "41.362496",
+      "longitude": "69.289422"
+    },
+    "services": ["suv shkafi", "to'ldirish moslamasi"],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      }
+    ],
+    "otherPeculiarities": [
+      {
+        "otherPeculiarity": "Wi-fi",
+        "otherPeculiarityIcon": "/images/icons/wifi.svg"
+      },
+      {
+        "otherPeculiarity": "Avtoturargoh",
+        "otherPeculiarityIcon": "/images/icons/parking.svg"
+      }
+    ]
+  },
+  {
+    "id": "843c3409-3949-47b1-b6fe-1a5cb2113431",
+    "images": ["/images/stations/station46.webp"],
+    "name": "Geksan xizmati",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent shahri, Yashnobod tumani, Ma’rifat mahallasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "coordinates": {
+      "latitude": "41.289066",
+      "longitude": "69.302423"
+    }
+  },
+  {
+    "id": "a78f5dd8-1a5f-47a6-8c08-298fb9e730fc",
+    "images": ["/images/stations/station47.webp"],
+    "name": "Ichki xizmat",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent shahri, Uchtepa tumani, mahalla fuqarolar yig‘ini Farhod",
+    "availableFuels": ["DT", "AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 275 84 94"]
+    },
+    "coordinates": {
+      "latitude": "41.289793",
+      "longitude": "69.180192"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      }
+    ]
+  },
+  {
+    "id": "983f425c-05bb-4761-a08f-f675aab46425",
+    "images": ["/images/stations/station48.webp"],
+    "name": "Mustang",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "st. Abdurauf Fitrat, 157/7",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "coordinates": {
+      "latitude": "41.269088",
+      "longitude": "69.289088"
+    },
+    "services": ["shinamontaj"]
+  },
+  {
+    "id": "db12d406-0c14-40dd-9630-0862207e5557",
+    "images": [
+      "/images/stations/station49.webp",
+      "/images/stations/station50.webp",
+      "/images/stations/station51.webp"
+    ],
+    "name": "92-sonli \"Carvon\" yoqilg'i quyish shoxobchasi Chuponota",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Chilonzor tumani, Kichik halqa yo‘li, 54-uy",
+    "availableFuels": ["DT", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 55 502 12 51", "+998 71 200 01 24"],
+      "webSite": {
+        "title": "www.carvon.uz",
+        "url": "https://carvon.uz"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/UNG_Petro_Bot"
+      },
+      "instagram": {
+        "icon": "/images/icons/instagram.svg",
+        "url": "https://instagram.com/ungpetro"
+      },
+      "facebook": {
+        "icon": "/images/icons/facebook.svg",
+        "url": "https://facebook.com/ungpetro.uz"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.293149",
+      "longitude": "69.194794"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      }
+    ]
+  },
+  {
+    "id": "1ed97205-7763-448d-8852-d1a56418ea14",
+    "images": ["/images/stations/station52.webp"],
+    "name": "Ibr",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Sergeli tumani, Qumariq ko‘chasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "coordinates": {
+      "latitude": "41.255028",
+      "longitude": "69.247340"
+    }
+  },
+  {
+    "id": "0f7cee62-0cbf-4d0e-a808-b113e57d5a08",
+    "images": ["/images/stations/station53.webp"],
+    "name": "5-sonli “Karvon” yoqilg‘i quyish shoxobchasi Jarqo‘rg‘on",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Jarqoʻrgʻon koʻchasi, 39",
+    "availableFuels": ["AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 55 515 03 91"],
+      "webSite": {
+        "title": "carvon.uz",
+        "url": "https://carvon.uz"
+      },
+      "instagram": {
+        "icon": "/images/icons/instagram.svg",
+        "url": "https://instagram.com/ungpetro"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.270678",
+      "longitude": "69.327399"
+    }
+  },
+  {
+    "id": "0d126148-a3c6-44e7-811a-50d126c71d4f",
+    "images": ["/images/stations/station54.webp"],
+    "name": "Intergaz gaz quyish stansiyasi",
+    "type": "AGNS, AGZS, CNG yoqilg'i quyish stantsiyasi",
+    "coreHours": "00:00 gacha ochiq",
+    "address": "Toshkent sh., Sergeli tumani, Bobur pos",
+    "availableFuels": ["DT", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 95 142 55 11"]
+    },
+    "coordinates": {
+      "latitude": "41.243332",
+      "longitude": "69.233054"
+    }
+  },
+  {
+    "id": "8dbdf396-337b-43f9-8e8a-8f5ddbdcda3a",
+    "images": [
+      "/images/stations/station55.webp",
+      "/images/stations/station56.webp"
+    ],
+    "name": "Aloqa 2-sonli Carvon yoqilg'i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "st. Beruniy, 32/1",
+    "availableFuels": ["AI-100", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 55 515 03 72", "+998 71 200 01 24"],
+      "webSite": {
+        "title": "carvon.uz",
+        "url": "https://carvon.uz"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.333797",
+      "longitude": "69.215371"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      }
+    ]
+  },
+  {
+    "id": "4946518f-d614-4918-85bc-e1ef29fc14e0",
+    "images": ["/images/stations/station57.webp"],
+    "name": "Mirxosil yoqilg'i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Olmazor tumani, Kichik halqa yoʻli",
+    "availableFuels": ["AI-92", "AI-91", "AI-80"],
+    "coordinates": {
+      "latitude": "41.348493",
+      "longitude": "69.255710"
+    }
+  },
+  {
+    "id": "c925278e-5fd6-476d-bed3-0e76688a8e61",
+    "images": [
+      "/images/stations/station58.webp",
+      "/images/stations/station59.webp"
+    ],
+    "name": "Mustang",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent shahri, Qarnoq ko‘chasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-91", "AI-80"],
+    "coordinates": {
+      "latitude": "41.310532",
+      "longitude": "69.344393"
+    }
+  },
+  {
+    "id": "a69e1949-d6ad-407f-9589-a8d995dd699c",
+    "images": ["/images/stations/nostation.svg"],
+    "name": "Metan",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Ish vaqti belgilanmagan",
+    "address": "Toshkent sh., Mirobod tumani, Oq-Uy mahalla fuqarolar yig‘ini",
+    "availableFuels": ["DT", "AI-92", "AI-91", "AI-80"],
+    "coordinates": {
+      "latitude": "41.267778",
+      "longitude": "69.310380"
+    }
+  },
+  {
+    "id": "6e7984f6-7c74-4744-bd1f-eaf300c2713a",
+    "images": ["/images/stations/station60.webp"],
+    "name": "14-sonli TTZ Carvon yoqilg'i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Mirzo Ulug‘bek tumani, Munavvarqora mahalla fuqarolar yig‘ini",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 200 01 24", "+998 71 207 01 33"],
+      "webSite": {
+        "title": "ungpetro.uz",
+        "url": "https://ungpetro.uz"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/UNG_Petro_Bot"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.359411",
+      "longitude": "69.384918"
+    }
+  },
+  {
+    "id": "a643affb-4090-4c27-886d-04e6675103f7",
+    "images": ["/images/stations/station61.webp"],
+    "name": "Benzin biznesi, 2-sonli yoqilg‘i quyish shoxobchasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Yashnobod tumani, Oxangaron shoh ko‘chasi, 106-uy",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 298 38 88"]
+    },
+    "coordinates": {
+      "latitude": "41.283879",
+      "longitude": "69.361338"
+    }
+  },
+  {
+    "id": "eae3eaed-a584-43e6-8384-9d7eec892cb6",
+    "images": ["/images/stations/station62.webp"],
+    "name": "UzGazOil limonariyasi",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Mirzo Ulug‘bek tumani, Yalangach massivi, 2-uy",
+    "availableFuels": ["AI-95", "AI-91", "AI-80"],
+    "coordinates": {
+      "latitude": "41.355763",
+      "longitude": "69.344927"
+    }
+  },
+  {
+    "id": "0d6869e4-3be1-4793-b35a-9174c08320b6",
+    "images": [
+      "/images/stations/station63.webp",
+      "/images/stations/station64.webp",
+      "/images/stations/station65.webp"
+    ],
+    "name": "Magnat benzin",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Chilonzor tumani, Shuhrat mahallasi",
+    "availableFuels": ["AI-80", "AI-95 Premium", "AI-92 Premium"],
+    "contacts": {
+      "phoneNumbers": ["+998 336 97 99 90"]
+    },
+    "coordinates": {
+      "latitude": "41.267859",
+      "longitude": "69.189891"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "15654893-985c-4815-8c74-2bb8baf20237",
+    "images": [
+      "/images/stations/station66.webp",
+      "/images/stations/station67.webp"
+    ],
+    "name": "IBR",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Uchtepa tumani, Hamdust mahallasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 71 209 93 64", "+998 71 209 70 18"]
+    },
+    "coordinates": {
+      "latitude": "41.274461",
+      "longitude": "69.167411"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      }
+    ]
+  },
+  {
+    "id": "d0e56e65-c9df-42d0-b4b4-42a8b9d3e93c",
+    "images": ["/images/stations/station68.webp"],
+    "name": "35-sonli “UNG Petro” yoqilg‘i quyish shoxobchasi Xonobod",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Sergeli tumani, Xonobod shahar qishlogʻi",
+    "availableFuels": ["AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": [
+        "+998 71 207 18 28",
+        "+998 71 207 38 28",
+        "+998 555 03 01 69",
+        "+998 55 515 03 74",
+        "+998 71 200 01 24"
+      ],
+      "facebook": {
+        "icon": "/images/icons/facebook.svg",
+        "url": "https://facebook.com/ungpetro.uz"
+      },
+      "instagram": {
+        "icon": "/images/icons/instagram.svg",
+        "url": "https://instagram.com/ungpetro"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.225406",
+      "longitude": "69.267799"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      }
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      }
+    ]
+  },
+  {
+    "id": "e32354b2-87fb-4d67-a948-052ddc2d4d76",
+    "images": ["/images/stations/station69.webp"],
+    "name": "Astoriya yog'i",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Sergeli tumani, koʻch. Obihaet, 26/3",
+    "availableFuels": ["AI-80", "AI-95 Premium", "AI-92 Premium"],
+    "contacts": {
+      "phoneNumbers": ["+998 91 797 04 44"]
+    },
+    "coordinates": {
+      "latitude": "41.219940",
+      "longitude": "69.243197"
+    },
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      }
+    ]
+  },
+  {
+    "id": "ad91f31d-c534-4f56-9d33-77bd11eca61e",
+    "images": [
+      "/images/stations/station70.webp",
+      "/images/stations/station71.webp",
+      "/images/stations/station72.webp",
+      "/images/stations/station73.webp",
+      "/images/stations/station74.webp",
+      "/images/stations/station75.webp",
+      "/images/stations/station76.webp",
+      "/images/stations/station77.webp",
+      "/images/stations/station78.webp",
+      "/images/stations/station79.webp"
+    ],
+    "name": "Lukoyl",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Yangi Toshkent tumani, Balta posyolkasi",
+    "availableFuels": ["AI-95", "AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 90 370 78 03"],
+      "webSite": {
+        "title": "nafta.uz",
+        "url": "https://nafta.uz"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.287941",
+      "longitude": "69.452007"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      },
+      {
+        "availability": "Nogironlar uchun to'xtash joyi",
+        "availabilityIcon": "/images/icons/tick.svg"
+      },
+      {
+        "availability": "Ramp",
+        "availabilityIcon": "/images/icons/tick.svg"
+      }
+    ]
+  },
+  {
+    "id": "25cf12aa-68bb-491b-9c6d-f33f3830cc7d",
+    "images": [
+      "/images/stations/station80.webp",
+      "/images/stations/station81.webp"
+    ],
+    "name": "O'zbekneftgaz",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent, st. Chashtepa, 54A",
+    "availableFuels": ["AI-95", "AI-92", "AI-91", "AI-80"],
+    "contacts": {
+      "webSite": {
+        "title": "www.ung.uz",
+        "url": "https://www.ung.uz"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/ao_uzbekneftegaz"
+      },
+      "youtube": {
+        "icon": "/images/icons/youtube.svg",
+        "url": "https://www.youtube.com/channel/UCD7hbv0ZaGFvaHL9ytFud0w"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.247796",
+      "longitude": "69.207014"
+    }
+  },
+  {
+    "id": "bf32a3fc-4f19-495a-98e3-004a84878c16",
+    "images": [
+      "/images/stations/station82.webp",
+      "/images/stations/station83.webp",
+      "/images/stations/station84.webp",
+      "/images/stations/station85.webp",
+      "/images/stations/station86.webp",
+      "/images/stations/station87.webp",
+      "/images/stations/station88.webp",
+      "/images/stations/station89.webp"
+    ],
+    "name": "Tatneft",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent viloyati, Sergeli tumani, Fuqarolar yig‘ini, Bunyodobod, Toshkent, Yangi Sergeli ko‘chasi",
+    "availableFuels": ["DT", "AI-98", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 97 739 22 11", "+998 555 01 28 88"],
+      "webSite": {
+        "title": "rss.tatneft.ru",
+        "url": "https://rss.tatneft.ru/"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.231658",
+      "longitude": "69.217583"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      },
+      {
+        "availability": "Nogironlar uchun to'xtash joyi",
+        "availabilityIcon": "/images/icons/tick.svg"
+      },
+      {
+        "availability": "Xodimlarni chaqirish tugmasi",
+        "availabilityIcon": "/images/icons/tick.svg"
+      },
+      {
+        "availability": "Ramp",
+        "availabilityIcon": "/images/icons/tick.svg"
+      }
+    ],
+    "services": [
+      "shinalar shishishi",
+      "avtomobil changyutgichi",
+      "yuvish suyuqligini to'ldirish"
+    ],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ]
+  },
+  {
+    "id": "813f5a2e-1b9c-4ae3-9575-8d11e258aa76",
+    "images": [
+      "/images/stations/station90.webp",
+      "/images/stations/station91.webp",
+      "/images/stations/station92.webp",
+      "/images/stations/station93.webp",
+      "/images/stations/station94.webp",
+      "/images/stations/station95.webp"
+    ],
+    "name": "Nafta Oil Tashkent",
+    "type": "yoqilg'i quyish shoxobchasi",
+    "coreHours": "Kechayu kunduz",
+    "address": "Toshkent sh., Chilonzor tumani, Beshqo‘rg‘on mahallasi",
+    "availableFuels": ["DT", "AI-95", "AI-92", "AI-80"],
+    "contacts": {
+      "phoneNumbers": ["+998 97 730 18 14", "+998 98 808 58 78"],
+      "webSite": {
+        "title": "nafta.uz",
+        "url": "https://nafta.uz/"
+      },
+      "telegram": {
+        "icon": "/images/icons/telegram.svg",
+        "url": "https://t.me/naftaoiluz"
+      },
+      "whatsapp": {
+        "icon": "/images/icons/whatsapp.svg",
+        "url": "https://wa.me/998990072223"
+      }
+    },
+    "coordinates": {
+      "latitude": "41.248830",
+      "longitude": "69.178981"
+    },
+    "availabilities": [
+      {
+        "availability": "Nogironlar uchun hojatxona",
+        "availabilityIcon": "/images/icons/handicaprestroom.svg"
+      },
+      {
+        "availability": "Nogironlar uchun to'xtash joyi",
+        "availabilityIcon": "/images/icons/tick.svg"
+      }
+    ],
+    "services": ["tanker"],
+    "peculiarities": [
+      {
+        "peculiarity": "Hojatxona",
+        "peculiarityIcon": "/images/icons/restroom.svg"
+      },
+      {
+        "peculiarity": "Karta orqali to'lov",
+        "peculiarityIcon": "/images/icons/cardpayment.svg"
+      },
+      {
+        "peculiarity": "Do'kon",
+        "peculiarityIcon": "/images/icons/shop.svg"
+      },
+      {
+        "peculiarity": "Kafe",
+        "peculiarityIcon": "/images/icons/cafe.svg"
+      }
+    ],
+    "otherPeculiarities": [
+      {
+        "otherPeculiarity": "Avtoturargoh",
+        "otherPeculiarityIcon": "/images/icons/parking.svg"
+      },
+      {
+        "otherPeculiarity": "Wi-fi",
+        "otherPeculiarityIcon": "/images/icons/wifi.svg"
+      },
+      {
+        "otherPeculiarity": "Yuk tashish transportiga yonilg'i quyish",
+        "otherPeculiarityIcon": "/images/icons/tick.svg"
+      }
+    ],
+    "paymentMethods": [
+      "naqd pul",
+      "karta bilan to'lov",
+      "elektron pul",
+      "bank o'tkazmasi",
+      "naqd bo'lmagan",
+      "onlayn",
+      "QR kod",
+      "kredit karta to'lovi"
+    ]
+  }
+]
