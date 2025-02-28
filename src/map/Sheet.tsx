@@ -75,7 +75,7 @@ export default function MapInfoSheet({
           </p>
           <div>
             <div className="flex items-center gap-x-2">
-              <img src="/src/assets/images/icons/clock.svg" alt="clock icon" />
+              <img src="/images/icons/clock.svg" alt="clock icon" />
               <h3>Ish tartibi</h3>
             </div>
             <p className="pl-9 py-2">{item.coreHours}</p>
@@ -83,7 +83,7 @@ export default function MapInfoSheet({
           <div>
             <div className="flex items-center gap-x-2">
               <img
-                src="/src/assets/images/icons/location.svg"
+                src="/images/icons/location.svg"
                 alt="location icon"
               />
               <h3 className="text-4 leading-4 font-medium">Manzil</h3>
@@ -94,7 +94,7 @@ export default function MapInfoSheet({
             <div>
               <div className="flex items-center gap-x-2">
                 <img
-                  src="/src/assets/images/icons/contacts.svg"
+                  src="/images/icons/contacts.svg"
                   alt="contacts logo"
                 />
                 <h3 className="text-4 leading-4 font-medium">Kontaktlar</h3>
