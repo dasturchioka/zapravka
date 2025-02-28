@@ -1,9 +1,7 @@
 import L from "leaflet";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import "leaflet/dist/leaflet.css";
 import data from "@/data/data.json";
-import markerIcon from "/images/icons/marker.webp";
-import redIcon from "/images/icons/red_marker.webp";
 import { MapContainer, Marker, TileLayer, useMap } from "react-leaflet";
 import { MapInfoSheet } from ".";
 import { searchStore } from "@/search/store/searchStore";
@@ -37,14 +35,14 @@ export default function Map() {
   };
 
   const customMarker = new L.Icon({
-    iconUrl: markerIcon,
+    iconUrl: "/images/icons/marker.webp",
     iconSize: [37, 37],
     iconAnchor: [12, 37],
     popupAnchor: [0, -37],
   });
 
   const chosenMarker = new L.Icon({
-    iconUrl: redIcon,
+    iconUrl: "/images/icons/red_marker.webp",
     iconSize: [50, 50],
     iconAnchor: [12, 50],
     popupAnchor: [0, -50],
@@ -56,7 +54,7 @@ export default function Map() {
   };
 
   return (
-    <React.Fragment>
+    <>
       <MapContainer
         center={[41.319258, 69.298395]}
         zoom={14}
@@ -88,6 +86,6 @@ export default function Map() {
       {activeStation && (
         <MapInfoSheet item={activeStation} onClose={closeInfoSheet} />
       )}
-    </React.Fragment>
+    </>
   );
 }

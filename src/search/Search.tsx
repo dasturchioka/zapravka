@@ -1,5 +1,5 @@
 import { MapPin } from "lucide-react";
-import React, { useMemo, useState, useEffect } from "react";
+import { useMemo, useState, useEffect } from "react";
 import data from "@/data/data.json";
 import { searchStore } from "@/search/store/searchStore";
 import NotFound from "./errors/NotFound";
@@ -28,7 +28,7 @@ export default function Search() {
   };
 
   return (
-    <React.Fragment>
+    <>
       <div className="max-w-[384px] bg-white">
         <div className="flex absolute z-30 top-3 left-3 items-center gap-2 rounded-2xl px-4 py-2 h-12 shadow-sm bg-[#f6f6f6] w-[290px] sm:w-[384px]">
           <MapPin
@@ -79,6 +79,6 @@ export default function Search() {
           </ul>
         )}
       </div>
-    </React.Fragment>
+    </>
   );
 }
