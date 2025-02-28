@@ -63,13 +63,11 @@ export default function Map() {
         zoomControl={false}
       >
         <MapUpdater chosenStation={chosenStation} />
-
         <TileLayer
           attribution='Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Tiles courtesy of Humanitarian OpenStreetMap Team'
           url="https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
           subdomains={["a", "b", "c"]}
         />
-
         {data.map((station) => (
           <Marker
             position={[
